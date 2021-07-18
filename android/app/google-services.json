@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270367396046",
+    "firebase_url": "https://aarogyam-biswatechs.firebaseio.com",
+    "project_id": "aarogyam-biswatechs",
+    "storage_bucket": "aarogyam-biswatechs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270367396046:android:e067190d1eb033a1c0809f",
+        "android_client_info": {
+          "package_name": "com.biswatechs.aarogyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270367396046-kkp69ei139ilaeakjka0nmfnlopuqcp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEMxnETnwmojQPWdNkedQ9vea7bPn6OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270367396046-kkp69ei139ilaeakjka0nmfnlopuqcp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
